@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: b9f554f345398586618a
   clientSecret: 966c8d8b4dae2f8a80d89ff5a6c6812d1c80f910
-  repo: github.com/Memory-shadow/lemonchann.github.io
+  repo: memory-shadows
   owner: Memory-shadow
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
